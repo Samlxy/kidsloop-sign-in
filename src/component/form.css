@@ -1,0 +1,78 @@
+#sign-up {
+    width: 24em;
+    height: 19em;
+    margin: auto;
+    border: none;
+    border-radius: 12px;
+    text-align: center;
+    padding-top: 10em;
+    margin-top: 5em;
+    box-shadow: 0.1em 0.1em 1em lightgrey;
+}
+
+img {
+    float: left;
+    padding: 1em 2em;
+    margin-top: -9em;
+    width: 4em;
+    height: 3em;
+}
+
+h2 {
+    float: left;
+    padding: 1em 1.4em;
+    margin-top: -3em;
+    font-weight: 400;
+   
+}
+
+.input-style {
+    height: 2.7em;
+    font-size: 1em;
+    border-radius: 12px;
+    border: 1.5px solid lightgray;
+    padding-left: 1em;
+}
+
+.help {
+    margin-right: 17em;
+    color: #0d3780;
+    font-size: 0.8em;
+    font-weight: 450;
+    padding: 0.8em;
+}
+
+button {
+    background-color: #0d78d5;
+    padding: 0.5em 1.6em;
+    color: #ffffff;
+    font-size: 14px;
+    border-radius: 12px;
+    border: none;
+    float: right;
+    margin: 0.8em 2em;
+}
+
+#language {
+    position: absolute;
+    left: 53em;
+}
+
+.list {
+    position: relative;
+    left: 9em;
+    display: inline-block;
+    margin-top: 5.5em;
+    padding: 0.5em;
+    font-size: 0.7em;
+    font-weight: 500;
+}
+
+#tiny-circle {
+    height: 0.5em;
+    width: 0.5em;
+    background-color:  #0d3780;
+    float: left;
+    margin-left: 12px;
+    margin-top: -2.2em;
+}
